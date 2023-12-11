@@ -15,7 +15,7 @@ A Collection of my projects
 
  * ### HR ANALYTICS
    
-    [HR Analytics Statistics]()    
+    [HR Analytics Statistics](https://github.com/kavithasenthil25/PROJECTS/blob/main/HR_Analytics_Statistics.ipynb)    
  
 
   
