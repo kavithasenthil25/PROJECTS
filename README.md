@@ -33,7 +33,7 @@ A Collection of my projects
 
    2.[CANCER CLASSIFICATION PROJECT (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CANCER%20CLASSIFICATION%20%20(AI).ipynb)
 
-   3.[KERAS (AI)]()
+   3.[KERAS (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/keras%20(AI).ipynb)
 
    4.[TENSORFLOW (AI)]()
         
