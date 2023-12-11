@@ -23,7 +23,7 @@ A Collection of my projects
 
  * ### TIME SERIES FORECASTING
 
-    [WALMART RETAIL STORE ANALYSIS AND FORECASTING]()
+    [WALMART RETAIL STORE ANALYSIS AND FORECASTING](https://github.com/kavithasenthil25/PROJECTS/blob/main/Time%20Series-%20Walmart.ipynb)
 
         The objective of this project is to provide deeper insights using the given store dataset and to make prediction models to forecast the store sales for coming weeks to
         solve the inventory issues of outlets to match the demand with respect to supply.
