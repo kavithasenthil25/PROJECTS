@@ -13,7 +13,9 @@ A Collection of my projects
 
       The objective of this project is to visualize the impact and analyze the trend of rate of infection and recovery as well as make predictions about the number of cases expected a week in future based on the current trends.
 
- * ### [HR ANALYTICS STATISTICS]()    
+ * ### HR ANALYTICS
+   
+    [HR Analytics Statistics]()    
  
 
   
