@@ -31,7 +31,7 @@ A Collection of my projects
  * ### AI PROJECTS
    1.[CNN (CONVOLUTIONAL NEURAL NETWORK)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CNN%20(AI).ipynb)
 
-   2.[CANCER CLASSIFICATION PROJECT (AI)]()
+   2.[CANCER CLASSIFICATION PROJECT (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CANCER%20CLASSIFICATION%20%20(AI).ipynb)
 
    3.[KERAS (AI)]()
 
