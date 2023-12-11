@@ -17,9 +17,9 @@ A Collection of my projects
    
     [HR Analytics Statistics](https://github.com/kavithasenthil25/PROJECTS/blob/main/HR_Analytics_Statistics.ipynb)
 
-       HR analytics involves analyzing, and interpreting data related to various HR functions, including recruitment, talent management, employee engagement, performance management, learning and development, onboardinging, training, and workforce planning.
-       Organizations leverage HR analytics to gain deeper insights into their workforce, identify people-related trends, make data-driven decisions to improve employee productivity, and align HR initiatives with organizational goals. This project involves Hypothesis 
-        Testing (Null&Alternate Hypothesis) with T-test ,Z-test, F-Statistic test to analyze the dataset.
+       HR analytics involves analyzing, and interpreting data related to various HR functions, including recruitment, talent management, employee engagement...
+       Organizations leverage HR analytics to gain deeper insights to make data-driven decisions and align HR initiatives with organizational goals.
+       This project involves HypothesisTesting (Null&Alternate Hypothesis) with T-test ,Z-test, F-Statistic test to analyze the dataset.
  
 
   
