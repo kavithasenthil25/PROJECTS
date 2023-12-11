@@ -6,7 +6,7 @@ A Collection of my projects
 * ### ML PROJECTS
   1. [Census Income Analysis](https://github.com/kavithasenthil25/PROJECTS/blob/main/Census%20Income%20project.ipynb)
  
-  2. [Covid-19 Analysis]()
+  2. [Covid-19 Analysis](https://github.com/kavithasenthil25/PROJECTS/blob/main/Covid19%20project.ipynb)
  
 
   
