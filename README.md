@@ -31,10 +31,18 @@ A Collection of my projects
  * ### AI PROJECTS
    1.[CNN (CONVOLUTIONAL NEURAL NETWORK)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CNN%20(AI).ipynb)
 
+      The objective of this project is to build a CNN as well as pretrained models using Tensorflow on a given dataset and evaluate the performance of both models. 
+
    2.[CANCER CLASSIFICATION PROJECT (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CANCER%20CLASSIFICATION%20%20(AI).ipynb)
+
+      The objective of this project is to perform a predictive task of classification based on the factors which lead upto a patient having cancer. Breast Cancer Dataset is used for classification .
+      GAUSSIANNB , KNN , MLP CLASSIFIER are used for classification.
 
    3.[KERAS (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/keras%20(AI).ipynb)
 
+      The main objective of this project is to find out whether the patient is Diabetic or Not . Classification problem done by building a sequential model using Keras on Diabetes dataset.
+
    4.[TENSORFLOW (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/Tensorflow%20(AI).ipynb)
+
         
   
