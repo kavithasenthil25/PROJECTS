@@ -12,6 +12,8 @@ A Collection of my projects
   3. [Covid-19 Analysis](https://github.com/kavithasenthil25/PROJECTS/blob/main/Covid19%20project.ipynb)
 
       The objective of this project is to visualize the impact and analyze the trend of rate of infection and recovery as well as make predictions about the number of cases expected a week in future based on the current trends.
+
+ * ### [HR ANALYTICS STATISTICS]()    
  
 
   
