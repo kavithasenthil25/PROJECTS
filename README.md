@@ -27,5 +27,14 @@ A Collection of my projects
 
         The objective of this project is to provide deeper insights using the given store dataset and to make prediction models to forecast the store sales for coming weeks to
         solve the inventory issues of outlets to match the demand with respect to supply.
+
+ * ### AI PROJECTS
+   1.[CNN (CONVOLUTIONAL NEURAL NETWORK)]()
+
+   2.[CANCER CLASSIFICATION PROJECT (AI)]()
+
+   3.[KERAS (AI)]()
+
+   4.[TENSORFLOW (AI)]()
         
   
