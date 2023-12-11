@@ -29,7 +29,7 @@ A Collection of my projects
         solve the inventory issues of outlets to match the demand with respect to supply.
 
  * ### AI PROJECTS
-   1.[CNN (CONVOLUTIONAL NEURAL NETWORK)]()
+   1.[CNN (CONVOLUTIONAL NEURAL NETWORK)](https://github.com/kavithasenthil25/PROJECTS/blob/main/CNN%20(AI).ipynb)
 
    2.[CANCER CLASSIFICATION PROJECT (AI)]()
 
