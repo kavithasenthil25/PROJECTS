@@ -48,6 +48,6 @@ A Collection of my projects
 
   * ### NLP (Natural Language Processing)
 
-      [TEXT CLASSIFICATION PROJECT]([TEXT CLASSIFICATION (NLP)](https://github.com/kavithasenthil25/PROJECTS/blob/main/NLP-TextClassification.ipynb) )
+      [TEXT CLASSIFICATION PROJECT](https://github.com/kavithasenthil25/PROJECTS/blob/main/NLP-TextClassification.ipynb)
         
   
