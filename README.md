@@ -45,5 +45,9 @@ A Collection of my projects
    4.[TENSORFLOW (AI)](https://github.com/kavithasenthil25/PROJECTS/blob/main/Tensorflow%20(AI).ipynb)
 
       The project is based on House Price Detection on Boston Dataset by building a sequential model with Relu Activation function using tensorflow and keras.
+
+  * ### NLP (Natural Language Processing)
+
+        [TEXT CLASSIFICATION (NLP)]() 
         
   
