@@ -49,5 +49,7 @@ A Collection of my projects
   * ### NLP (Natural Language Processing)
 
       [TEXT CLASSIFICATION PROJECT](https://github.com/kavithasenthil25/PROJECTS/blob/main/NLP-TextClassification.ipynb)
+
+       The main objective of the project is to classify whether the e-mail is spam or not by building a model using Random Forest Classifier and Bag of Words Approach for feature Extraction.
         
   
